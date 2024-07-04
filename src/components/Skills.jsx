@@ -17,7 +17,7 @@ const Skills = () => {
         <RxBorderSolid className="text-[#a2e9ee] text-6xl font-mono" />
       </div>
       <div className="mt-4">
-        <div className="flex justify-center gap-10">
+        <div className="md:flex justify-center gap-10">
           <div data-aos="fade-left"data-aos-delay="100" className="my-4 bg-white rounded-xl shadow-black shadow-xl">
             <img className="mx-10 my-6" src={img1} width="60" alt="" />
             <h1 className="text-center text-black font-bold m-2 uppercase">
@@ -43,7 +43,7 @@ const Skills = () => {
             </h1>
           </div>
         </div>
-        <div className="flex justify-center gap-10">
+        <div className="md:flex justify-center gap-10">
           <div data-aos="fade-right"data-aos-delay="100" className="my-4 bg-white rounded-xl shadow-black shadow-xl">
             <img className="mx-10 my-6" src={img5} width="60" alt="" />
             <h1 className="text-center text-black font-bold m-2 uppercase">
@@ -63,7 +63,7 @@ const Skills = () => {
             </h1>
           </div>
         </div>
-        <div className="flex justify-center gap-10">
+        <div className="md:flex justify-center gap-10">
           <div data-aos="fade-left"data-aos-delay="100" className="my-4 bg-white rounded-xl shadow-black shadow-xl">
             <img className="mx-10 my-6" src={img8} width="60" alt="" />
             <h1 className="text-center text-black font-bold m-2 uppercase">
