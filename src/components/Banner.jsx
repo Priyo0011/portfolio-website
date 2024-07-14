@@ -23,7 +23,7 @@ const Banner = () => {
           data-aos-duration="1000"
           className="hover:border-[#a2e9ee] border-2 p-2 rounded-lg font-semibold text-white  hover:text-[#a2e9ee]  "
         >
-          <Link to='https://docs.google.com/document/d/1l_iDFp9B2AqEyOb3FEqLnAOTMETUycj9pAJE50mw6gM/export?format=pdf'>Get Resume</Link>
+          <Link to='https://docs.google.com/document/d/1rPn6l2raBaGZT0Y_Ykz4AvEN1jhFyahK9OrTqTpVWQw/export?format=pdf'>Get Resume</Link>
           
         </button>
         <div  className="flex items-center">

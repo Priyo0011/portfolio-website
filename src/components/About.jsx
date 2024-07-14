@@ -43,7 +43,7 @@ const About = () => {
               Phone <span className="ml-9">:</span> +8801991618032
             </p>
             <p>
-              Email <span className="ml-9">:</span> priyotosh0011@gmail.com{" "}
+              Email <span className="ml-9">:</span> priyotoshbiswas29@gmail.com{" "}
             </p>
             <p>
               From <span className="ml-12">:</span> Khulna,Bangladesh
@@ -54,7 +54,7 @@ const About = () => {
             <button
               className="mt-4 hover:border-[#a2e9ee] border p-2 py-1 rounded-lg  text-white  hover:text-[#a2e9ee]  "
             >
-              <Link to='https://docs.google.com/document/d/1l_iDFp9B2AqEyOb3FEqLnAOTMETUycj9pAJE50mw6gM/export?format=pdf'> Download CV</Link>
+              <Link to='https://docs.google.com/document/d/1rPn6l2raBaGZT0Y_Ykz4AvEN1jhFyahK9OrTqTpVWQw/export?format=pdf'> Download CV</Link>
             </button>
           </div>
         </div>
